@@ -86,7 +86,7 @@ h2{
 /* Testimonials Section */
 
 #testimonials{
-  padding: 7% 15%;
+
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
@@ -96,6 +96,9 @@ h2{
   margin : 20px;
   border-radius: 100%;
 
+}
+.carousel-item{
+    padding: 7% 15%;
 }
 
 #press{
